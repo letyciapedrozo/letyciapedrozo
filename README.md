@@ -1,4 +1,4 @@
-### Olá mundo>
+### Olá mundo 
 Eu sou Letycia :)
 
 <img align="right" alt="le-ic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/700150596233068605/1085346632800935956/Design_sem_nome_1.gif">
