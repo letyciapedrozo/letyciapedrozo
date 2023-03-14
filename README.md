@@ -1,12 +1,9 @@
 ### Olá mundo!
 Eu sou Letycia :)
 
-<img align="right" alt="le-ic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/700150596233068605/1085346632800935956/Design_sem_nome_1.gif">
+<img align="right" alt="le-ic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/700150596233068605/1085346632800935956/Design_sem_nome_1.gif">
 
 ##
-
-##
-
 
 Atualmente estudando:<div style="display: inline_block"><br>
   <img align="center" alt="le-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
